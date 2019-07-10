@@ -1,6 +1,6 @@
 # iOS Performance SDK
 
-Repository for Android and iOS performance SDK's to generate performance reports at [Appachhi](https://appachhi.com/)
+Repository for Android and iOS performance SDK's to generate performance reports for your iOS app, either on the [Appachhi](https://appachhi.com/) platform or with your current automation framework. 
 
 ## Introduction
 
